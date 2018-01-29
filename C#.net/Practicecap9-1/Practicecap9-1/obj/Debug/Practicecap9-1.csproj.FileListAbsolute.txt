@@ -1,0 +1,5 @@
+F:\practice\Practicecap9-1\Practicecap9-1\bin\Debug\Practicecap9-1.exe.config
+F:\practice\Practicecap9-1\Practicecap9-1\bin\Debug\Practicecap9-1.exe
+F:\practice\Practicecap9-1\Practicecap9-1\bin\Debug\Practicecap9-1.pdb
+F:\practice\Practicecap9-1\Practicecap9-1\obj\Debug\Practicecap9-1.exe
+F:\practice\Practicecap9-1\Practicecap9-1\obj\Debug\Practicecap9-1.pdb

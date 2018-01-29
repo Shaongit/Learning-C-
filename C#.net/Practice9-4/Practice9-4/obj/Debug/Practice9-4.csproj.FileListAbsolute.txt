@@ -1,0 +1,2 @@
+F:\practice\Practice9-4\Practice9-4\bin\Debug\Practice9-4.exe.config
+F:\practice\Practice9-4\Practice9-4\obj\Debug\Practice9-4.csprojResolveAssemblyReference.cache

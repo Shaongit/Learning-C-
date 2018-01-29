@@ -1,0 +1,2 @@
+F:\practice\Practice10\Practice10\bin\Debug\Practice10.exe.config
+F:\practice\Practice10\Practice10\obj\Debug\Practice10.csprojResolveAssemblyReference.cache

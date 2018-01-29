@@ -1,0 +1,6 @@
+F:\practice\Practice9-14\Practice9-14\bin\Debug\Practice9-14.exe.config
+F:\practice\Practice9-14\Practice9-14\bin\Debug\Practice9-14.exe
+F:\practice\Practice9-14\Practice9-14\bin\Debug\Practice9-14.pdb
+F:\practice\Practice9-14\Practice9-14\obj\Debug\Practice9-14.csprojResolveAssemblyReference.cache
+F:\practice\Practice9-14\Practice9-14\obj\Debug\Practice9-14.exe
+F:\practice\Practice9-14\Practice9-14\obj\Debug\Practice9-14.pdb
