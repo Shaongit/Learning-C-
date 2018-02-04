@@ -1,0 +1,12 @@
+F:\practice\Insert_update_delete\Insert_update_delete\bin\Debug\Insert_update_delete.exe.config
+F:\practice\Insert_update_delete\Insert_update_delete\obj\Debug\Insert_update_delete.csprojResolveAssemblyReference.cache
+F:\practice\Insert_update_delete\Insert_update_delete\bin\Debug\Insert_update_delete.exe
+F:\practice\Insert_update_delete\Insert_update_delete\bin\Debug\Insert_update_delete.pdb
+F:\practice\Insert_update_delete\Insert_update_delete\obj\Debug\Insert_update_delete.exe
+F:\practice\Insert_update_delete\Insert_update_delete\obj\Debug\Insert_update_delete.pdb
+D:\Github\Learning-C-\C#.net\Insert_update_delete\Insert_update_delete\bin\Debug\Insert_update_delete.exe.config
+D:\Github\Learning-C-\C#.net\Insert_update_delete\Insert_update_delete\obj\Debug\Insert_update_delete.exe
+D:\Github\Learning-C-\C#.net\Insert_update_delete\Insert_update_delete\obj\Debug\Insert_update_delete.pdb
+D:\Github\Learning-C-\C#.net\Insert_update_delete\Insert_update_delete\bin\Debug\Insert_update_delete.exe
+D:\Github\Learning-C-\C#.net\Insert_update_delete\Insert_update_delete\bin\Debug\Insert_update_delete.pdb
+D:\Github\Learning-C-\C#.net\Insert_update_delete\Insert_update_delete\obj\Debug\Insert_update_delete.csprojResolveAssemblyReference.cache
